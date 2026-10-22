@@ -1,0 +1,1 @@
+# git-Lab-multirepo-gestione-magazzino
