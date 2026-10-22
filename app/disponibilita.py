@@ -4,3 +4,6 @@ from app.magazzino import GIACENZE
 
 def disponibile(codice, quantita):
     return quantita > 0 and GIACENZE.get(codice, 0) >= quantita
+
+def check():
+    return GIACENZE.__sizeof__ >= 0
