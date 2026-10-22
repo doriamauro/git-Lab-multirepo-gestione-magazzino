@@ -1,5 +1,6 @@
 """Gestione magazzino: primo modulo del laboratorio."""
 
+# mappa delle giacenze
 GIACENZE = {}
 
 def carica_prodotto(codice, quantita):
