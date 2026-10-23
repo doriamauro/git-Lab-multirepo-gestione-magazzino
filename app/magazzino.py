@@ -7,3 +7,6 @@ def carica_prodotto(codice, quantita):
     return GIACENZE[codice]
 
     # aggiungo un commento.
+
+
+# e io qua ci metto un commento
